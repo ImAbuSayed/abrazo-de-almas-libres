@@ -1,4 +1,4 @@
-# Abrazo de almas libres
+# Abrazo de almas libres, Vol. 2
 
 ---
 
@@ -10,12 +10,12 @@
 
 | Field | Details |
 |-------|---------|
-| **Title** | Abrazo de almas libres |
+| **Title** | Abrazo de almas libres, Vol. 2 |
 | **Written By** | [Abu Sayed](https://abusayed.com.bd/) |
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/abrazo-de-almas-libres/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [License this song: Abrazo de almas libres](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/abrazo-de-almas-libres/) |
+| **Get License** | [Request Licensing for Abrazo de almas libres, Vol. 2](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/abrazo-de-almas-libres/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Dime si esta noche nos perdemos en la ciudad
+> Buscando esa buena vibra que nos da la libertad
+> Tu cuerpo rozando el mío, rompiendo la gravedad
+> Un abrazo de almas libres envueltos en la humedad
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
@@ -107,8 +110,8 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
-| **Timestamp** | June 20, 2026 |
+| **SHA-256 Hash** | `745d9020224a40af5d87fabdde01984624038fbe51810a821f25da051698ad53` |
+| **Timestamp** | June 21, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
 
